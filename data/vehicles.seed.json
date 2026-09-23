@@ -1,0 +1,5 @@
+[
+  { "brand": "Toyota",  "model": "Camry",   "year": 2022, "category": "Sedan",     "daily_rate": 4500, "fuel_type": "Petrol", "seating_capacity": 5, "status": "available" },
+  { "brand": "Honda",   "model": "CR-V",    "year": 2020, "category": "SUV",       "daily_rate": 5000, "fuel_type": "Petrol", "seating_capacity": 7, "status": "available" },
+  { "brand": "Tesla",   "model": "Model 3", "year": 2021, "category": "Electric",  "daily_rate": 4500, "fuel_type": "Electric","seating_capacity": 5, "status": "available" }
+]
